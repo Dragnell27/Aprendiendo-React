@@ -9,7 +9,7 @@ const users = [
     },
     {
         userName: 'pheralb',
-        name: 'Pablo Hernandez',
+        name: 'Pablo Hernandezz',
         isFollowing: false
     }
 ]
