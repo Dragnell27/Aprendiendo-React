@@ -22,7 +22,7 @@ function App() {
 
 	const checkEndGame = (newBoard) => {
     return newBoard.every((square) => square !== null)
-  }
+	}
 
 	const updateBoard = (index) => {
 		if (board[index] || winner) return
