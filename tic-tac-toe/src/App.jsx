@@ -41,7 +41,6 @@ function App() {
 		} else if (checkEndGame(newBoard)) {
 			setWinner(false)
 		}
-
 	}
 
 	return (
